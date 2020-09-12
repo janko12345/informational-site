@@ -1,4 +1,4 @@
-# Informational size
+# Informational site
 
 
 ## Server side in node programming with TOP started and this is its first basic assignment.
